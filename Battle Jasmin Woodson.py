@@ -1,0 +1,6 @@
+texte = input("Tape text ou a : ")
+texte = texte.lower() 
+qte_a = texte.count('a') 
+qte_i = texte.count('i') 
+print("qte 'a' ki minuscule se ", qte_)
+print("qte 'i' ki minuscule see", qte_i)
